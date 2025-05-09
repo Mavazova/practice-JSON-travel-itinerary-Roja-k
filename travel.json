@@ -1,0 +1,48 @@
+{
+    "tripName": "Andaman and Nicobar Islands",
+    "traveler": {
+        "name":"Roja Kasula",
+        "contact":{
+            "email": "roja.k@gmail.com",
+            "phone": "+919876543210"
+        }
+    },
+    "destinations": [
+        {
+            "Location": "Port Blair",
+            "arrivalDate": "2025-08-17",
+            "departureDate": "2025-08-18",
+            "activities": [
+                {
+                    "title": "Cellular Jail Visit",
+                    "time": "9:00 AM"
+                },
+                {
+                "title": "Cellular Jail Visit",
+                "time": "10:00 AM"
+                },
+                {
+                    "title": "Light & Sound Show",
+                    "time": "6:30 PM"
+                }
+            ]
+        },
+            {
+                "location": "Havelock Isalnd",
+                "arrivalDate": "2025-08-18",
+                "departureDate": "2025-08-20",
+                "activities": [
+                    {
+                        "title": "Scuba Diving",
+                        "time":"9:00 AM"
+                    },
+                    {
+                     "title": "Radhanagr Beach Sunset",
+                     "time": "5:30 PM"
+                    }
+                ]
+
+            }
+            ]
+        }
+    
