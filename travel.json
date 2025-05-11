@@ -12,6 +12,10 @@
             "Location": "Port Blair",
             "arrivalDate": "2025-08-17",
             "departureDate": "2025-08-18",
+            "transportation": {
+            "mode": "Train",
+            "cost": 85.00
+          },
             "activities": [
                 {
                     "title": "Cellular Jail Visit",
@@ -31,6 +35,10 @@
                 "location": "Havelock Isalnd",
                 "arrivalDate": "2025-08-18",
                 "departureDate": "2025-08-20",
+                "transportation": {
+                "mode": "Plane",
+                "cost": 100.00
+                },
                 "activities": [
                     {
                         "title": "Scuba Diving",
@@ -45,4 +53,26 @@
             }
             ]
         }
+
+        //// Pair practice 4 
+        {
+            "location": "Barcelona",
+            "arrivalDate": "2025-07-01",
+            "departureDate": "2025-07-05",
+            "transportation": {
+              "mode": "Flight",
+              "cost": 180.00
+            },
+            "activities": [
+              {
+                "title": "Park Güell Tour",
+                "time": "10:30 AM"
+              },
+              {
+                "title": "Tapas Tasting Experience",
+                "time": "6:00 PM"
+              }
+            ]
+          }
+               
     
